@@ -15,7 +15,6 @@ Tech stack
 $B.S Course (Dept. of AI Convergence)$
 
 ## CAREER
----
 ### 2024.10 - Now
 **학부 연구생 활동** | [CVL](https://sites.google.com/view/cvl-jnu/home)
 **지도교수:** 조영준 교수님 (컴퓨터 비전 연구실)
@@ -32,7 +31,6 @@ $B.S Course (Dept. of AI Convergence)$
 **전남대학교 학사과정** | [Chonnam National University](https://www.jnu.ac.kr)
 
 ## AWARDS
----
 ### The 2023 ICPC Asia Seoul Regional Contest Honorable Mention
 - 2023-11-24
 - international collegiate programming contest
@@ -46,7 +44,6 @@ $B.S Course (Dept. of AI Convergence)$
 - 소프트웨어중심사업단
 
 ## ACTIVITIES
----
 ### 에코노베이션
 #### Predict bitter or sweet molecules and compare molecular substructures
 - scAIence
