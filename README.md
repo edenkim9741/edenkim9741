@@ -13,6 +13,7 @@ Tech stack
 
 # Gun-Hyeong Kim
 $B.S Course (Dept. of AI Convergence)$
+Have an interest in **Computer Vision**, **Vector Graphics**
 
 ## CAREER
 ### 2024.10 - Now
@@ -68,3 +69,18 @@ $B.S Course (Dept. of AI Convergence)$
 ### 맥킨토쉬 48기
 - 퍼스트 기타
 - https://www.youtube.com/@mcintosh1976
+
+## Tech Stack
+### Python
+Algorithm, Machine Learning, Deep Learning으로 문제를 해결하기 위해서 Python을 사용할 수 있음. Pandas, Numpy, OpenCV, Matplotlib등 파이썬 라이브러리를 적절하게 활용할 수 있음
+#### Pytorch
+Deep Learning 모델을 구현하기 위해 주로 사용하는 라이브러리
+
+### C, C++
+C와 C++의 동작 원리를 이해하고 사용가능하고, C에서는 Structure, multi processing C++에서는 Class, Generic 등의 개념을 알고 활용 가능
+
+### JAVA
+Template, Class 등 기본적인 코드를 구현할 수 있음
+
+### Linux
+주로 사용되는 Linux 명령어를 능숙하게 사용가능하고, Linux의 파일 시스템과 권한 관리 등 개념을 알고 있음
