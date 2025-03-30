@@ -17,20 +17,12 @@ $B.S Course (Dept. of AI Convergence)$
 Have an interest in **Computer Vision**, **Vector Graphics**
 
 ## CAREER
-### 2024.10 - Now
-**학부 연구생 활동** | [CVL](https://sites.google.com/view/cvl-jnu/home)
-**지도교수:** 조영준 교수님 (컴퓨터 비전 연구실)
-
-### 2024.07 - 2025.01
-**BigData Insight 인턴** 
-- 기계학습 모델 개발
-
-### 2022.09 - 2024.02
-**에코노베이션 AM** | [Econovation](https://econovation.kr/)
-- 2022.12 - 2023.12 에코노베이션 부회장
-
-### 2021.03 - Now
-**전남대학교 학사과정** | [Chonnam National University](https://www.jnu.ac.kr)
+| Duration          | Career                                                                           |
+| ----------------  |  ------------------------------------------------------------------------------- |
+| 2024.10 - Now     | **학부 연구생 활동** \| [CVL](https://sites.google.com/view/cvl-jnu/home) 지도교수: 조영준 교수님 |
+| 2024.07 - 2025.01 | **BigData Insight 인턴** (기계학습 모델 개발)                                              |
+| 2022.09 - 2024.02 | **에코노베이션 AM** \| [Econovation](https://econovation.kr/)                          |
+| 2021.03 - Now     | **전남대학교 학사과정** \| [Chonnam National University](https://www.jnu.ac.kr)           |
 
 ## AWARDS
 ### The 2023 ICPC Asia Seoul Regional Contest Honorable Mention
