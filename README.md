@@ -16,6 +16,13 @@ $B.S\ Course\ (Dept.\ of\ AI\ Convergence)$
 
 Have an interest in **Computer Vision**, **Vector Graphics**
 
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=edenkim9741&show_icons=true&theme=transparent&include_all_commits=true" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenkim9741&layout=compact&theme=transparent" alt="languages graph" />
+  <br>
+</div>
+
 ## CAREER
 | Duration          | Career                                                                           |
 | ----------------  |  ------------------------------------------------------------------------------- |
