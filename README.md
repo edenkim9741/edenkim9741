@@ -26,7 +26,7 @@ Have an interest in **Computer Vision**, **Vector Graphics**
 ## CAREER
 | Duration          | Career                                                                           |
 | ----------------  |  ------------------------------------------------------------------------------- |
-| 2024.10 - Now     | **학부 연구생 활동** \| [CVL](https://sites.google.com/view/cvl-jnu/home) 지도교수: 조영준 교수님 |
+| 2024.10 - 2025.03 | **학부 연구생 활동** \| [CVL](https://sites.google.com/view/cvl-jnu/home) 지도교수: 조영준 교수님 |
 | 2024.07 - 2025.01 | **BigData Insight 인턴** (기계학습 모델 개발)                                              |
 | 2022.09 - 2024.02 | **에코노베이션 AM** \| [Econovation](https://econovation.kr/)                          |
 | 2021.03 - Now     | **전남대학교 학사과정** \| [Chonnam National University](https://www.jnu.ac.kr)           |
