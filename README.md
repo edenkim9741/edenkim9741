@@ -26,7 +26,7 @@ Have an interest in **Computer Vision**, **Vector Graphics**
 ## CAREER
 | Duration          | Career                                                                           |
 | ----------------  |  ------------------------------------------------------------------------------- |
-| 2026.08 -         | **석사과정** \| [IVL](https://sites.google.com/view/gist-ivl) |
+| 2026.08 -         | **GIST 석사과정** \| [IVL](https://sites.google.com/view/gist-ivl) |
 | 2024.10 - 2025.03 | **학부 연구생 활동** \| [CVL](https://sites.google.com/view/cvl-jnu/home) 지도교수: 조영준 교수님 |
 | 2024.07 - 2025.01 | **BigData Insight 인턴** (기계학습 모델 개발)                                              |
 | 2022.09 - 2024.02 | **에코노베이션 AM** \| [Econovation](https://econovation.kr/)                          |
