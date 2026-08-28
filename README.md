@@ -12,9 +12,9 @@ Tech stack
 
 
 # Gun-Hyeong Kim
-$B.S\ Course\ (Dept.\ of\ AI\ Convergence)$
+$M.S\ Course\ (Dept.\ of\ AI)$
 
-Have an interest in **Computer Vision**, **Vector Graphics**
+Have an interest in **Computer Vision**
 
 <div align="center">
   <br>
